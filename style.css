@@ -52,6 +52,7 @@ main h1{
 
 .msg{
     font-size: 10vmin;
+    font-family: "Lucida Console", "Courier New", monospace;
     color: #FFE66D;
 }
 
